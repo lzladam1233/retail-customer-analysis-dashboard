@@ -24,6 +24,7 @@ Power BI
 DAX
 Data Visualization
 Data Analysis
-📌 Business Value
+
+**📌 Business Value**
 
 This dashboard helps businesses understand customer behavior, optimize product strategy, and improve marketing decisions.
