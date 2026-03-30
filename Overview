@@ -1,0 +1,23 @@
+Customer Purchase Behavior Dashboard (Power BI)
+📊 Overview
+
+This project analyzes customer purchasing behavior using Power BI. The dashboard provides insights into revenue trends, customer demographics, and category performance.
+
+🚀 Key Insights
+Total revenue reached $233K
+Clothing generated the highest sales among all categories
+Average customer spending is $59.76
+Seasonal trends show variation in purchasing behavior across Fall, Spring, Summer, and Winter
+📈 Features
+Interactive filters (Gender, Category, Location, Season)
+KPI cards for quick business overview
+Customer segmentation by purchase frequency
+Category-level revenue analysis
+🛠 Tools Used
+Power BI
+Data Cleaning & Transformation
+Data Visualization
+
+📌 Business Value
+
+This dashboard helps stakeholders understand customer behavior and optimize product strategy, pricing, and marketing campaigns.
